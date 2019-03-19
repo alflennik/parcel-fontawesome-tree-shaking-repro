@@ -1,0 +1,16 @@
+{
+  "name": "parcel-fontawesome-tree-shaking-repro",
+  "version": "1.0.0",
+  "author": "Alexander Flenniken @alflennik",
+  "license": "MIT",
+  "repository": "",
+  "scripts": {
+    "build": "parcel build ./index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.2"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.7.2"
+  }
+}
